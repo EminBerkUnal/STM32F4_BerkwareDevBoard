@@ -22,11 +22,11 @@ The board integrates an **MPU-6050 6-axis IMU**, native USB 2.0 connectivity, on
 
 ### Top View
 
-![STM32F4 Berkware Development Board](Media/STM32F4_BerkwareDevBoard_Top.png)
+![STM32F4 Berkware Development Board Top](Media/STM32F4_BerkwareDevBoard_Top.png)
 
 ### Bottom View
 
-![STM32F4 Berkware Development Board](Media/STM32F4_BerkwareDevBoard_Bottom.png)
+![STM32F4 Berkware Development Board Bottom](Media/STM32F4_BerkwareDevBoard_Bottom.png)
 
 ## Schematic
 
