@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=MCU_PA8 Pin=J1-9
-Removed Pin From Net: NetName=MCU_PB0 Pin=J2-1
-Added Pin To Net: NetName=MCU_PB0 Pin=J1-9
-Added Pin To Net: NetName=MCU_PA8 Pin=J2-1
