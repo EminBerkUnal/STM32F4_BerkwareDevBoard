@@ -1,62 +1,30 @@
-# 
 
-# \# STM32F4 Berkware Development Board
+# STM32F4 Berkware Development Board
 
-# 
+A custom STM32F4-based microcontroller development board designed for embedded systems development, hardware prototyping, and peripheral interfacing.
 
-# A custom STM32F4-based microcontroller development board designed for embedded systems development, hardware prototyping, and peripheral interfacing.
+The project covers schematic design, component selection, PCB layout, and 3D board visualization.
 
-# 
+## PCB 3D View
 
-# The project covers schematic design, component selection, PCB layout, and 3D board visualization.
+!\[STM32F4 Development Board](Media/STM32F4\_BerkwareDevBoard.png)
 
-# 
+## Schematic
 
-# \## PCB 3D View
+[View / Download Schematic (PDF)](Media/STM32F4\_BerkwareDevBoard.pdf)
 
-# 
+## Project Files
 
-# !\[STM32F4 Development Board](Media/STM32F4\_BerkwareDevBoard.png)
+The repository contains the hardware design files and related outputs:
 
-# 
+- **Schematic** — Microcontroller and peripheral circuitry
+- **PCB Layout** — Component placement and routing
+- **Outputs/** — PCB 3D renders and schematic documentation
 
-# \## Schematic
+## Tools
 
-# 
+**EDA Software:** Altium Designer
 
-# \[View / Download Schematic (PDF)](Media/STM32F4\_BerkwareDevBoard.pdf)
+## License
 
-# 
-
-# \## Project Files
-
-# 
-
-# The repository contains the hardware design files and related outputs:
-
-# 
-
-# \- \*\*Schematic\*\* — Microcontroller and peripheral circuitry
-
-# \- \*\*PCB Layout\*\* — Component placement and routing
-
-# \- \*\*Outputs/\*\* — PCB 3D renders and schematic documentation
-
-# 
-
-# \## Tools
-
-# 
-
-# \*\*EDA Software:\*\* Altium Designer
-
-# 
-
-# \## License
-
-# 
-
-# See the \[LICENSE](LICENSE) file for details.
-
-
-
+See the [LICENSE](LICENSE) file for details.
