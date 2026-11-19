@@ -1,0 +1,28 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [STM32F4_BerkwareDevBoard.PrjPcb]
+   Generated File[STM32F4_BerkwareDevBoard_Copper_Signal_Top.gbr]
+   Generated File[STM32F4_BerkwareDevBoard_Copper_Signal_1.gbr]
+   Generated File[STM32F4_BerkwareDevBoard_Copper_Signal_2.gbr]
+   Generated File[STM32F4_BerkwareDevBoard_Copper_Signal_Bot.gbr]
+   Generated File[STM32F4_BerkwareDevBoard_Pads_Bot.gbr]
+   Generated File[STM32F4_BerkwareDevBoard_Pads_Top.gbr]
+   Generated File[STM32F4_BerkwareDevBoard_Legend_Top.gbr]
+   Generated File[STM32F4_BerkwareDevBoard_Legend_Bot.gbr]
+   Generated File[STM32F4_BerkwareDevBoard_Soldermask_Top.gbr]
+   Generated File[STM32F4_BerkwareDevBoard_Soldermask_Bot.gbr]
+   Generated File[STM32F4_BerkwareDevBoard_Paste_Top.gbr]
+   Generated File[STM32F4_BerkwareDevBoard_Paste_Bot.gbr]
+   Generated File[STM32F4_BerkwareDevBoard_Profile.gbr]
+   Generated File[STM32F4_BerkwareDevBoard_NPTH_Drill.gbr]
+   Generated File[STM32F4_BerkwareDevBoard_PTH_Drill.gbr]
+   Generated File[STM32F4_BerkwareDevBoard_Drawing_1.gbr]
+   Generated File[STM32F4_BerkwareDevBoard_Drillmap_1.gbr]
+   Generated File[STM32F4_BerkwareDevBoard.EXTREP]
+   Generated File[STM32F4_BerkwareDevBoard.REP]
+
+
+Files Generated   : 19
+Documents Printed : 0
+
+Finished Output Generation At 21:20:02 On 19/11/2026

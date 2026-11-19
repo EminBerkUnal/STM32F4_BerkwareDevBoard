@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=U3 Old Footprint=FP-AMS1117-IPC_C New Footprint=FP-AMS1117-IPC_A
+Added Differential Pair: Name=USB_D
+Added Class: Name=DIFF_USB
