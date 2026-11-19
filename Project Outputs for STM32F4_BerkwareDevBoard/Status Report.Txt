@@ -18,11 +18,9 @@ From  : Variant [[No Variations]] of Project [STM32F4_BerkwareDevBoard.PrjPcb]
    Generated File[STM32F4_BerkwareDevBoard_PTH_Drill.gbr]
    Generated File[STM32F4_BerkwareDevBoard_Drawing_1.gbr]
    Generated File[STM32F4_BerkwareDevBoard_Drillmap_1.gbr]
-   Generated File[STM32F4_BerkwareDevBoard.EXTREP]
-   Generated File[STM32F4_BerkwareDevBoard.REP]
 
 
-Files Generated   : 19
+Files Generated   : 17
 Documents Printed : 0
 
-Finished Output Generation At 21:20:02 On 19/11/2026
+Finished Output Generation At 22:13:02 On 19/11/2026
